@@ -8,7 +8,6 @@ import org.apache.wicket.model.CompoundPropertyModel;
 import org.apache.wicket.model.PropertyModel;
 import org.apache.wicket.spring.injection.annot.SpringBean;
 
-import ar.edu.unq.sarmiento.wicket.materia.ListadoDeMateriasController;
 import ar.edu.unqsarmiento.ingsw.prevencionacoso.controllers.InformacionController;
 import ar.edu.unqsarmiento.ingsw.prevencionacoso.modelo.Telefono;
 

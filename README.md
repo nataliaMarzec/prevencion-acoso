@@ -33,7 +33,7 @@
 
 ## Configuración del entorno
 
-** Crear la base de datos.
+##### Crear la base de datos.
   - Para inicializar la base de datos desde la consola de Mysql Server escribir los siguientes comandos:
      
 `mysql -u root -proot`
